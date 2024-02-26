@@ -1,6 +1,7 @@
-# SEARCH ENGINE
-Project that search in a txt file the words that you add on the run command in the cli 
+# Search Engine
 
-```
-python main.py {word}
-```
+## Program needs to run with arguments in the execution
+
+### Execute the main file always with one argument, the arg will be the word to search in the list of files:
+
+`python main.py {word}`
